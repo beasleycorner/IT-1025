@@ -1,4 +1,4 @@
-# IT-1025 LAB 1
+LAB 1
 
 EXECUTIVE SUMMARY 
 The purpose of this lab was to explore various topics within IT such as the history of computing and how to use platforms such as GitHub. IT 1025 covers a wide range of topics. The main goal is to increase student awareness of the various topics so that they may then go on to more advanced computer and IT topics.  The history of IT was provided through a couple of YouTube videos the instructor assigned. One was on Charles Babbage the father of the computer and video on the history of IBM. GitHub is a platform that allows students to learn different topics such as programming and icloud storage. 
